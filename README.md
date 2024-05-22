@@ -31,6 +31,9 @@ L'application est conçue selon une architecture n-tiers, séparant les différe
 2. Utilisez les options du menu pour accéder aux fonctionnalités de gestion des élèves.
 3. Suivez les instructions à l'écran pour créer, modifier, afficher ou supprimer des élèves.
 
+## Lien vidéo du site 🎥
+[Lien de la vidéo](https://1drv.ms/v/s!Anvag74D4iR_p24CP9XDnFgnAraP?e=QTaXM3)
+
 ## Auteurs ✨
 
 - Nicolas BLET
