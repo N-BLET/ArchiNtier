@@ -262,3 +262,4 @@ C:\Users\bleto\source\repos\WebArchiNTier\WebArchiNTier\bin\Debug\net6.0\ORM.pdb
 C:\Users\bleto\source\repos\WebArchiNTier\WebArchiNTier\bin\Debug\net6.0\DataRepository.pdb
 C:\Users\bleto\source\repos\WebArchiNTier\WebArchiNTier\bin\Debug\net6.0\IDataRepository.pdb
 C:\Users\bleto\source\repos\WebArchiNTier\WebArchiNTier\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bleto\source\repos\WebArchiNTier\WebArchiNTier\obj\Debug\net6.0\WebArchiNTier.sourcelink.json

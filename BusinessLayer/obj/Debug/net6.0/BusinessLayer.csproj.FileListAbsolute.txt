@@ -21,3 +21,4 @@ C:\Users\bleto\source\repos\WebArchiNTier\BusinessLayer\obj\Debug\net6.0\Busines
 C:\Users\bleto\source\repos\WebArchiNTier\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
 C:\Users\bleto\source\repos\WebArchiNTier\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
 C:\Users\bleto\source\repos\WebArchiNTier\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\bleto\source\repos\WebArchiNTier\BusinessLayer\obj\Debug\net6.0\BusinessLayer.sourcelink.json

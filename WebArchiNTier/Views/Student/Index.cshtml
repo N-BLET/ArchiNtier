@@ -4,22 +4,23 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<h1>LISTE DES ÉTUDIANTS</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create" class="btn btn-primary">Ajouter un étudiant</a>
 </p>
 <table class="table">
     <thead>
         <tr>
-            <th>
+            @* <th>
                 @Html.DisplayNameFor(model => model.Id)
-            </th>
+            </th> *@
             <th>
                 @Html.DisplayNameFor(model => model.Nom)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Prenom)
+                @* @Html.DisplayNameFor(model => model.Prenom) *@
+                Prénom
             </th>
             <th></th>
         </tr>
@@ -27,9 +28,9 @@
     <tbody>
 @foreach (var item in Model) {
         <tr>
-            <td>
+            @* <td>
                 @Html.DisplayFor(modelItem => item.Id)
-            </td>
+            </td> *@
             <td>
                 @Html.DisplayFor(modelItem => item.Nom)
             </td>
@@ -37,9 +38,9 @@
                 @Html.DisplayFor(modelItem => item.Prenom)
             </td>
             <td>
-                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                @Html.ActionLink("Éditer", "Edit", new { id=item.Id }) |
+                    @Html.ActionLink("Afficher", "Details", new { id = item.Id }) |
+                    @Html.ActionLink("Supprimer", "Delete", new { id = item.Id })
             </td>
         </tr>
 }

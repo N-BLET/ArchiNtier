@@ -66,6 +66,24 @@ namespace DataRepository
         }
 
         /// <summary>
+        /// Suppression d'un étudiant
+        /// </summary>
+        /// <param name="student">objet Student</param>
+        /// <returns>Task de type Student</returns>
+        /// <exception cref="NotImplementedException"></exception>
+        public async Task DeleteStudent(Student student)
+        {
+            var existingStudent = await _context.Students.FindAsync(student.Id);
+            if (existingStudent == null)
+            {
+                throw new Exception("Student not found");
+            }
+
+            _context.Students.Remove(existingStudent);
+            await _context.SaveChangesAsync();
+        }
+
+        /// <summary>
         /// Retourne la liste des étudiants
         /// </summary>
         /// <returns>Collection de type Student</returns>

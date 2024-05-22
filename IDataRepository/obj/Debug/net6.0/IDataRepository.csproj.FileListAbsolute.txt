@@ -13,3 +13,4 @@ C:\Users\bleto\source\repos\WebArchiNTier\IDataRepository\obj\Debug\net6.0\IData
 C:\Users\bleto\source\repos\WebArchiNTier\IDataRepository\obj\Debug\net6.0\refint\IDataRepository.dll
 C:\Users\bleto\source\repos\WebArchiNTier\IDataRepository\obj\Debug\net6.0\IDataRepository.pdb
 C:\Users\bleto\source\repos\WebArchiNTier\IDataRepository\obj\Debug\net6.0\ref\IDataRepository.dll
+C:\Users\bleto\source\repos\WebArchiNTier\IDataRepository\obj\Debug\net6.0\IDataRepository.sourcelink.json

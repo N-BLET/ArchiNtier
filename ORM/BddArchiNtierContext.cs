@@ -58,8 +58,6 @@ namespace ORM
             {
                 entity.ToTable("Student");
 
-                entity.Property(e => e.Id).ValueGeneratedNever();
-
                 entity.Property(e => e.Nom).HasMaxLength(50);
 
                 entity.Property(e => e.Prenom).HasMaxLength(50);

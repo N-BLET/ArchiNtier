@@ -75,18 +75,19 @@ namespace WebArchiNTier.Controllers
         }
 
         // GET: StudentController/Delete/5
-        public ActionResult Delete(int id)
+        public async Task<ActionResult> Delete(int id)
         {
-            return View();
+            return View(await context.DetailsStudent(id));
         }
 
         // POST: StudentController/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
+        public async Task<ActionResult> Delete(int id, Student student)
         {
             try
             {
+                await context.DeleteStudent(student);
                 return RedirectToAction(nameof(Index));
             }
             catch

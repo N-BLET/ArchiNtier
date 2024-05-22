@@ -13,6 +13,8 @@ namespace IBusinessLayer
         Task<Student> EditStudent(Student student);
         // Méthode pour récupérer les détails d'un étudiant
         Task<Student> DetailsStudent(int id);
+        // Méthode pour supprimer un étudiant
+        Task DeleteStudent(Student student);
     }
 
 

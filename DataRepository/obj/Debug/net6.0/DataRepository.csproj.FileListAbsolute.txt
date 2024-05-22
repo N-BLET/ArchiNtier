@@ -17,3 +17,4 @@ C:\Users\bleto\source\repos\WebArchiNTier\DataRepository\obj\Debug\net6.0\DataRe
 C:\Users\bleto\source\repos\WebArchiNTier\DataRepository\obj\Debug\net6.0\refint\DataRepository.dll
 C:\Users\bleto\source\repos\WebArchiNTier\DataRepository\obj\Debug\net6.0\DataRepository.pdb
 C:\Users\bleto\source\repos\WebArchiNTier\DataRepository\obj\Debug\net6.0\ref\DataRepository.dll
+C:\Users\bleto\source\repos\WebArchiNTier\DataRepository\obj\Debug\net6.0\DataRepository.sourcelink.json

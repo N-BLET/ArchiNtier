@@ -66,6 +66,17 @@ namespace BusinessLayer
         }
 
         /// <summary>
+        /// Suppression d'un étudiant
+        /// </summary>
+        /// <param name="student">objet Student</param>
+        /// <returns>Task de type Student</returns>
+        /// <exception cref="NotImplementedException"></exception>
+        public Task DeleteStudent(Student student)
+        {
+            return _dataFactory.DeleteStudent(student);
+        }
+
+        /// <summary>
         /// Libère les ressources
         /// </summary>
         /// <exception cref="NotImplementedException"></exception>

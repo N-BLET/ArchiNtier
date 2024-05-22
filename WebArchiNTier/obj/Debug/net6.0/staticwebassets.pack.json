@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\bleto\\source\\repos\\WebArchiNTier\\WebArchiNTier\\wwwroot\\img\\accueil.jpg",
+      "PackagePath": "staticwebassets\\img\\accueil.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bleto\\source\\repos\\WebArchiNTier\\WebArchiNTier\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
       "Id": "C:\\Users\\bleto\\source\\repos\\WebArchiNTier\\WebArchiNTier\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
