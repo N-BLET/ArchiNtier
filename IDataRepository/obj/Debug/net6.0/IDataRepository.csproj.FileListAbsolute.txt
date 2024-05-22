@@ -1,0 +1,15 @@
+C:\Users\bleto\source\repos\WebArchiNTier\IDataRepository\bin\Debug\net6.0\IDataRepository.deps.json
+C:\Users\bleto\source\repos\WebArchiNTier\IDataRepository\bin\Debug\net6.0\IDataRepository.dll
+C:\Users\bleto\source\repos\WebArchiNTier\IDataRepository\bin\Debug\net6.0\IDataRepository.pdb
+C:\Users\bleto\source\repos\WebArchiNTier\IDataRepository\bin\Debug\net6.0\Models.dll
+C:\Users\bleto\source\repos\WebArchiNTier\IDataRepository\bin\Debug\net6.0\Models.pdb
+C:\Users\bleto\source\repos\WebArchiNTier\IDataRepository\obj\Debug\net6.0\IDataRepository.csproj.AssemblyReference.cache
+C:\Users\bleto\source\repos\WebArchiNTier\IDataRepository\obj\Debug\net6.0\IDataRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bleto\source\repos\WebArchiNTier\IDataRepository\obj\Debug\net6.0\IDataRepository.AssemblyInfoInputs.cache
+C:\Users\bleto\source\repos\WebArchiNTier\IDataRepository\obj\Debug\net6.0\IDataRepository.AssemblyInfo.cs
+C:\Users\bleto\source\repos\WebArchiNTier\IDataRepository\obj\Debug\net6.0\IDataRepository.csproj.CoreCompileInputs.cache
+C:\Users\bleto\source\repos\WebArchiNTier\IDataRepository\obj\Debug\net6.0\IDataRep.EA9246D7.Up2Date
+C:\Users\bleto\source\repos\WebArchiNTier\IDataRepository\obj\Debug\net6.0\IDataRepository.dll
+C:\Users\bleto\source\repos\WebArchiNTier\IDataRepository\obj\Debug\net6.0\refint\IDataRepository.dll
+C:\Users\bleto\source\repos\WebArchiNTier\IDataRepository\obj\Debug\net6.0\IDataRepository.pdb
+C:\Users\bleto\source\repos\WebArchiNTier\IDataRepository\obj\Debug\net6.0\ref\IDataRepository.dll
