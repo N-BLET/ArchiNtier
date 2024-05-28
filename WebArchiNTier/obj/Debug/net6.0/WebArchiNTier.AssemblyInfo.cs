@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebArchiNTier")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56662c156207cd9b81f62206c793e4b3e902442c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80571599ba4f173b7e719f122b8172e64b10b90b")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebArchiNTier")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebArchiNTier")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

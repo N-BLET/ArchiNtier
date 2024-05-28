@@ -3,8 +3,6 @@ using Domaine.Models;
 using IBusinessLayer;
 using Microsoft.AspNetCore.Mvc;
 using BusinessLayer;
-using Newtonsoft.Json;
-using Microsoft.EntityFrameworkCore;
 
 namespace WebArchiNTier.Controllers
 {
@@ -20,7 +18,7 @@ namespace WebArchiNTier.Controllers
         IStudentBL context = InitDependency().Resolve<IStudentBL>();
 
         // GET: StudentController
-        public ActionResult Index(string searchString)
+        public ActionResult Index(string? searchString)
         {
 
             return View(context.GetStudents(searchString).ToList<Student>());

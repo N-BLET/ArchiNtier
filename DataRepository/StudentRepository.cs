@@ -88,7 +88,7 @@ namespace DataRepository
         /// </summary>
         /// <returns>Collection de type Student</returns>
         /// <exception cref="NotImplementedException"></exception>
-        public IQueryable<Student> GetStudents(string searchString)
+        public IQueryable<Student> GetStudents(string? searchString)
         {
             var students = from s in _context.Students
                            select s;

@@ -3,36 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\bleto\\source\\repos\\WebArchiNTier\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8EBB2C74-8853-432C-9CB0-A62B7FEFE7F7}|WebArchiNTier\\WebArchiNTier.csproj|c:\\users\\bleto\\source\\repos\\webarchintier\\webarchintier\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8EBB2C74-8853-432C-9CB0-A62B7FEFE7F7}|WebArchiNTier\\WebArchiNTier.csproj|solutionrelative:webarchintier\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EBB2C74-8853-432C-9CB0-A62B7FEFE7F7}|WebArchiNTier\\WebArchiNTier.csproj|c:\\users\\bleto\\source\\repos\\webarchintier\\webarchintier\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{8EBB2C74-8853-432C-9CB0-A62B7FEFE7F7}|WebArchiNTier\\WebArchiNTier.csproj|solutionrelative:webarchintier\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8EBB2C74-8853-432C-9CB0-A62B7FEFE7F7}|WebArchiNTier\\WebArchiNTier.csproj|c:\\users\\bleto\\source\\repos\\webarchintier\\webarchintier\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EBB2C74-8853-432C-9CB0-A62B7FEFE7F7}|WebArchiNTier\\WebArchiNTier.csproj|solutionrelative:webarchintier\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CB22951-689A-4418-AC1B-015D1100C95E}|DataRepository\\DataRepository.csproj|c:\\users\\bleto\\source\\repos\\webarchintier\\datarepository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CB22951-689A-4418-AC1B-015D1100C95E}|DataRepository\\DataRepository.csproj|solutionrelative:datarepository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D99D453A-2DE6-4F54-853A-F8FAD099178C}|Models\\Models.csproj|c:\\users\\bleto\\source\\repos\\webarchintier\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99D453A-2DE6-4F54-853A-F8FAD099178C}|Models\\Models.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62112496-8A5F-4720-B7BB-3A7723B65F0B}|IDataRepository\\IDataRepository.csproj|c:\\users\\bleto\\source\\repos\\webarchintier\\idatarepository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62112496-8A5F-4720-B7BB-3A7723B65F0B}|IDataRepository\\IDataRepository.csproj|solutionrelative:idatarepository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D1D503E-8B18-41A8-A56B-F7C1114A71AA}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\bleto\\source\\repos\\webarchintier\\businesslayer\\businesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D1D503E-8B18-41A8-A56B-F7C1114A71AA}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\businesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AF8A7A8-FC44-4177-BFFB-66415756D6B4}|IBusinessLayer\\IBusinessLayer.csproj|c:\\users\\bleto\\source\\repos\\webarchintier\\ibusinesslayer\\istudentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AF8A7A8-FC44-4177-BFFB-66415756D6B4}|IBusinessLayer\\IBusinessLayer.csproj|solutionrelative:ibusinesslayer\\istudentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EBB2C74-8853-432C-9CB0-A62B7FEFE7F7}|WebArchiNTier\\WebArchiNTier.csproj|c:\\users\\bleto\\source\\repos\\webarchintier\\webarchintier\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EBB2C74-8853-432C-9CB0-A62B7FEFE7F7}|WebArchiNTier\\WebArchiNTier.csproj|solutionrelative:webarchintier\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA179DEB-F96C-4CEE-B02B-B1A80A003647}|WebApiArchiNtiers\\WebApiArchiNtiers.csproj|c:\\users\\bleto\\source\\repos\\webarchintier\\webapiarchintiers\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA179DEB-F96C-4CEE-B02B-B1A80A003647}|WebApiArchiNtiers\\WebApiArchiNtiers.csproj|solutionrelative:webapiarchintiers\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,110 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\bleto\\source\\repos\\WebArchiNTier\\WebArchiNTier\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "WebArchiNTier\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\bleto\\source\\repos\\WebArchiNTier\\WebArchiNTier\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "WebArchiNTier\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-28T08:46:51.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\bleto\\source\\repos\\WebArchiNTier\\WebArchiNTier\\Views\\Student\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebArchiNTier\\Views\\Student\\Index.cshtml",
-              "ToolTip": "C:\\Users\\bleto\\source\\repos\\WebArchiNTier\\WebArchiNTier\\Views\\Student\\Index.cshtml",
-              "RelativeToolTip": "WebArchiNTier\\Views\\Student\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-28T08:20:21.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\bleto\\source\\repos\\WebArchiNTier\\WebArchiNTier\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebArchiNTier\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\bleto\\source\\repos\\WebArchiNTier\\WebArchiNTier\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebArchiNTier\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T08:18:50.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StudentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\bleto\\source\\repos\\WebArchiNTier\\DataRepository\\StudentRepository.cs",
-              "RelativeDocumentMoniker": "DataRepository\\StudentRepository.cs",
-              "ToolTip": "C:\\Users\\bleto\\source\\repos\\WebArchiNTier\\DataRepository\\StudentRepository.cs",
-              "RelativeToolTip": "DataRepository\\StudentRepository.cs",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAowGQAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T07:03:12.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IStudentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\bleto\\source\\repos\\WebArchiNTier\\IDataRepository\\IStudentRepository.cs",
-              "RelativeDocumentMoniker": "IDataRepository\\IStudentRepository.cs",
-              "ToolTip": "C:\\Users\\bleto\\source\\repos\\WebArchiNTier\\IDataRepository\\IStudentRepository.cs",
-              "RelativeToolTip": "IDataRepository\\IStudentRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T07:02:17.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BusinessLayer.cs",
-              "DocumentMoniker": "C:\\Users\\bleto\\source\\repos\\WebArchiNTier\\BusinessLayer\\BusinessLayer.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\BusinessLayer.cs",
-              "ToolTip": "C:\\Users\\bleto\\source\\repos\\WebArchiNTier\\BusinessLayer\\BusinessLayer.cs",
-              "RelativeToolTip": "BusinessLayer\\BusinessLayer.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAswCoAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T07:00:34.723Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Users\\bleto\\source\\repos\\WebArchiNTier\\WebArchiNTier\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "WebArchiNTier\\Controllers\\StudentController.cs",
               "ToolTip": "C:\\Users\\bleto\\source\\repos\\WebArchiNTier\\WebArchiNTier\\Controllers\\StudentController.cs",
               "RelativeToolTip": "WebArchiNTier\\Controllers\\StudentController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAwwBkAAAAMAAAA",
+              "ViewState": "AQIAAEcAAAAAAAAAAIAwwFYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T06:54:59.358Z",
+              "WhenOpened": "2024-05-28T11:26:22.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IStudentBL.cs",
-              "DocumentMoniker": "C:\\Users\\bleto\\source\\repos\\WebArchiNTier\\IBusinessLayer\\IStudentBL.cs",
-              "RelativeDocumentMoniker": "IBusinessLayer\\IStudentBL.cs",
-              "ToolTip": "C:\\Users\\bleto\\source\\repos\\WebArchiNTier\\IBusinessLayer\\IStudentBL.cs",
-              "RelativeToolTip": "IBusinessLayer\\IStudentBL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA7AAAA",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\bleto\\source\\repos\\WebArchiNTier\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\bleto\\source\\repos\\WebArchiNTier\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T06:59:40.406Z",
+              "WhenOpened": "2024-05-28T11:19:33.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentApiController.cs",
+              "DocumentMoniker": "C:\\Users\\bleto\\source\\repos\\WebArchiNTier\\WebApiArchiNtiers\\Controllers\\StudentApiController.cs",
+              "RelativeDocumentMoniker": "WebApiArchiNtiers\\Controllers\\StudentApiController.cs",
+              "ToolTip": "C:\\Users\\bleto\\source\\repos\\WebArchiNTier\\WebApiArchiNtiers\\Controllers\\StudentApiController.cs",
+              "RelativeToolTip": "WebApiArchiNtiers\\Controllers\\StudentApiController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwCwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:19:29.055Z",
               "EditorCaption": ""
             }
           ]
