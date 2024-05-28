@@ -38,9 +38,9 @@ namespace BusinessLayer
         /// </summary>
         /// <returns>Collection de type Student</returns>
         /// <exception cref="NotImplementedException"></exception>   
-        public IQueryable<Student> GetStudents()
+        public IQueryable<Student> GetStudents(string searchString)
         {
-                return _dataFactory.GetStudents();
+                return _dataFactory.GetStudents(searchString);
         }
 
         /// <summary>

@@ -5,7 +5,7 @@ namespace IBusinessLayer
     public interface IStudentBL : IDisposable
     {
         // Méthode qui renvoit  la liste des étudiants
-        IQueryable<Student> GetStudents();
+        IQueryable<Student> GetStudents(string searchString);
 
         // Méthode pour créer un étudiant
         Task<Student> CreateStudent(Student student);

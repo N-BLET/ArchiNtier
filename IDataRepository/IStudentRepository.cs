@@ -5,7 +5,7 @@ namespace IDataRepository
     public interface IStudentRepository : IDisposable // Pattern de gestion de la mémoire
     {
         // Méthode qui renvoit  la liste des étudiants
-        IQueryable<Student> GetStudents();
+        IQueryable<Student> GetStudents(string searchString);
 
         // Méthode pour créer un étudiant
         Task<Student> CreateStudent(Student student);
